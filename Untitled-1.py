@@ -1,1 +1,1 @@
-print("mo") # type: ignore
+print("Ham") # type: ignore
